@@ -1,4 +1,0 @@
- mkdir test
- cd test
- git init
- 下了init指令後，test資料夾會多了一個.git的版控資料夾
